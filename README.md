@@ -1,8 +1,13 @@
- VDRfuse
+VDRfuse
+--------
 
  Fuse filesystem to "autoedit" VDR recordings!
 
  (c) Teemu Suikki 2017
+ Based on the fuse example "passthrough_fh.c"
+
+ Latest version:
+ https://github.com/Zuikkis/vdrfuse
 
 
 Using:
